@@ -1,1 +1,4 @@
 this is a sample file used to the app.
+a=3;
+b=4
+c=a+b;
